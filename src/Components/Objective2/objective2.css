@@ -1,5 +1,10 @@
 
-
+.inner-container-3p{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
 @media screen and (min-width: 990px) {
     .inner-container-3p {
         flex: 0 0 33.333333%;

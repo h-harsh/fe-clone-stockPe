@@ -18,7 +18,7 @@ export const Obejctive2 = () => {
           </p>
         </div>
         <div className="inner-container-3p">
-          <img src="https://stockpe.in/img/implement.png" alt="" />
+          <img style={{width:'200px'}} src="https://stockpe.in/img/implement.png" alt="" />
           <h3>Learn & implement in real time</h3>
           <p>Simplied market tips in a capsule form for you to learn & implement in real time</p>
         </div>
