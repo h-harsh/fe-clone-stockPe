@@ -1,0 +1,13 @@
+@media screen and (max-width:990px){
+    .main-header{
+        display: block;
+    }
+    .main-header-p1, .main-header-p2{
+        max-width: 100%;
+        margin: auto;
+    }
+    .main-header-p2 img{
+        padding: 1rem 1rem 1rem 5rem;
+    }
+  }
+  

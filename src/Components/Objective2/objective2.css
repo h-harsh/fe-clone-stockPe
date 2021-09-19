@@ -1,0 +1,9 @@
+
+
+@media screen and (min-width: 990px) {
+    .inner-container-3p {
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%;
+        padding: 0 15px;
+  }
+  }

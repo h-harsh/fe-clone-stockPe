@@ -1,0 +1,48 @@
+.objective1-container {
+  padding: 3rem;
+  color: white;
+  text-align: center;
+}
+.objective1-container h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+.objective1-container-p2 {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 3rem;
+}
+
+.inner-container img{
+  width: 150px;
+  max-width: 100%;
+  height: auto;
+}
+.inner-container h3{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0.5rem;
+    line-height: 1.2rem;
+}
+.inner-container p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 18px;
+}
+
+.inner-container{
+  position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media screen and (min-width: 990px) {
+  .inner-container {
+    flex: 0 0 25%;
+    max-width: 25%;
+    padding: 0 15px;
+}
+}
